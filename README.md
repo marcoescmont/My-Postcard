@@ -1,2 +1,2 @@
 # My-Postcard
-This is my rpoject of the postcard.
+This is my project of the postcard.
